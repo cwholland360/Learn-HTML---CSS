@@ -1,2 +1,2 @@
 # Learn HTML & CSS
- shayhowe.com web development tuturial
+ shayhowe.com web development tutorial
